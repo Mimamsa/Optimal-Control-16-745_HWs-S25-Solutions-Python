@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.swp
+*.bak
+*.swo
+
+# Project-specific files
+*.log
+*.sqlite3
+db.sqlite3
+instance/
+local_settings.py
+
+# Build artifacts
+dist/
+build/
+*.egg
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
